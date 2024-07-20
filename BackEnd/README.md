@@ -15,5 +15,5 @@ En esta sección se encontrará el código fuente de la aplicación web, aquella
 |Integrante|Contacto|Rol|Observaciones|
 |-----------|------|--------|-------------|
 |Zyanya Zacatenco|[@ZyanZac](https://github.com/ZyanZac)|Líder de BackEnd|✔ Revisado y aprobado|
-|Esther Gonzalez|[@Esther-Gonzalez04](https://github.com/Esther-Gonzalez04)|Desarrollador BackEnd|✖ No ha revisado|
+|Esther Gonzalez|[@Esther-Gonzalez04](https://github.com/Esther-Gonzalez04)|Desarrollador BackEnd|✔ Revisado y aprobado|
 |Lorena Galindo|[@Lore-Galindo](https://github.com/Lore-Galindo)|Desarrollador BackEnd|✖ No ha revisado|
