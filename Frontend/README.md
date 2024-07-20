@@ -17,8 +17,6 @@
 
 |Integrante|Contacto|Rol|Observaciones|
 |-----------|------|--------|-------------|
-
-
 |Lorena Citlalli Galindo|[@Lore-Galindo](https://github.com/Lore-Galindo)|Lider desarrollo Front|✔ Revisado y aprobado|
 |Esther González Peralta|[@Esther-Gonzalez04](https://github.com/Esther-Gonzalez04)|Desarrollador Frontend|✔ Revisado y aprobado |
 |Zyanya Zacatenco|[@ZyanZac](https://github.com/ZyanZac)|Desarrollo de Frontend|✖ Hay errores en el código, no aprobado|
