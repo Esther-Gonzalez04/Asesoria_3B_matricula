@@ -19,6 +19,6 @@
 |Integrante|Contacto|Rol|Observaciones|
 |-----------|------|--------|-------------|
 |Esther González|[@Esther-Gonzalez04](https://github.com/Esther-Gonzalez04)|Líder de Documentación|✖️ Revisado y aprobado |
-|Lorena Galindo|[@Lore-Galindo](https://github.com/Lore-Galindo)|Documentador|😅No he revisado nada|
+|Lorena Galindo|[@Lore-Galindo](https://github.com/Lore-Galindo)|Documentador|✖️ revisar los links de las cuentas |
 |Zyanya Zacatenco|[@ZyanZac](https://github.com/ibarra-tania)|Documentador|✖ Revisado y no aprobado. Los enlaces al usuario de Zyanya es incorrecto.|
 ---
