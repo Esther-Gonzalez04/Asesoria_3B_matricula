@@ -28,3 +28,5 @@
 
 Creado por: **Lorena Citlalli Galindo Gonzalez** 
    [@Lore-Galindo](https://github.com/Lore-Galindo)
+
+Revisado y Aprobado por:  **M.T.I. Marco A. Ramírez**
